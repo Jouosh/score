@@ -50,9 +50,4 @@ public class ScoreRepoTests {
         System.out.println(updatedScore);
     }
 
-//    @Test
-//    public void delete_score_by_id() {
-//        this.scoreRepo.deleteById(4);
-//    }
-
 }
